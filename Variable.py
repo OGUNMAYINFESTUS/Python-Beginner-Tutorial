@@ -1,0 +1,18 @@
+# name = input("What is your name? ")
+# print("Hello", name )
+# input("How are you? ")
+# print("Great! ")
+
+
+name = input("What is your name? ")
+print("Hello, my name is", name)
+age = input("How old are you? ")
+print("I'm", age, "years old")
+work = input("Where do you work? ")
+print("I work at", work)
+profession = input("What job do you like best? ")
+print("I like", profession)
+religion = input("What religion do belong to? ")
+print("I'm one of", religion)
+place_live = input("Where do you live? ")
+print("I live at", place_live)

@@ -1,0 +1,8 @@
+name = input("What is your name? ")
+print("My name is " + name)
+age = input("How old are you? ")
+print("I'm " + age + " years old ")
+school = input("What is the name of your school? ")
+print("The name of my school is " + school)
+my_class = input("What class are you? ")
+print("I'm in " + my_class + " Rubby ")
